@@ -21,15 +21,15 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1280px-DBeaver_logo.svg.png" height="40" alt="DBeaver"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python-logo-notext.svg" height="40" alt="Python"  />
+  <img src="https://img.icons8.ru/?size=100&id=l75OEUJkPAk4&format=png&color=000000" height="40" alt="Python"  />
   <img width="12" />
   <img src="https://nfp2b.ru/wp-content/uploads/2025/11/datalens.jpg" height="40" alt="Yandex_DataLens"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/Google_Sheets#/media/File:Google_Sheets_icon_(August_2026).svg" height="40" alt="sheets"  />
+  <img src="https://img.icons8.ru/?size=100&id=qrAVeBIrsjod&format=png&color=000000" height="40" alt="sheets"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/Microsoft_Excel#/media/File:Microsoft_Office_Excel_(2025–present).svg" height="40" alt="excel"  />
+  <img src="https://img.icons8.ru/?size=100&id=y5utoW4FUM92&format=png&color=000000" height="40" alt="excel"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/Microsoft_Word#/media/File:Microsoft_Office_Word_(2025–present).svg" height="40" alt="word"  />
+  <img src="https://img.icons8.ru/?size=100&id=EqxMzyq5jqdz&format=png&color=000000" height="40" alt="word"  />
   <img width="12" />
   <img src="https://marketplace-assets.digitalocean.com/logos/sharklabs-anaconda.png" height="40" alt="Anaconda"  />
   <img width="12" />
