@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1280px-DBeaver_logo.svg.png" height="40" alt="DBeaver"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/452091/python.svg" height="40" alt="Python"  />
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="40" alt="Python"  />
   <img width="12" />
   <img src="https://nfp2b.ru/wp-content/uploads/2025/11/datalens.jpg" height="40" alt="Yandex_DataLens"  />
   <img width="12" />
