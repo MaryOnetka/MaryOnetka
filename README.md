@@ -17,7 +17,7 @@
 
 <h3 align="left">🛠 Инструменты:</h3> 
 <div align="left">
-  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" height="40" alt="PostgreSQL"  />
+  <img src="https://img.icons8.ru/?size=100&id=38561&format=png&color=000000" height="40" alt="PostgreSQL"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1280px-DBeaver_logo.svg.png" height="40" alt="DBeaver"  />
   <img width="12" />
